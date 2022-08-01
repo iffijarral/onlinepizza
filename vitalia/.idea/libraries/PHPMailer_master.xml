@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PHPMailer-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/backend/PHPMailer-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
